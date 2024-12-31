@@ -2,33 +2,10 @@
 
 A modern, full-stack parking management solution that streamlines the parking experience for drivers while providing robust management tools for parking operators.
 
-## ✨ Key Features
+## ✨ Demo
 
-### 🚘 For Drivers
+https://github.com/user-attachments/assets/ff22d917-2b5e-4ae7-9dcb-7e4fa9333e1f
 
-- **Real-time Parking Spot Availability**
-- **Easy Reservation System**
-- **Interactive Calendar View**
-- **Digital Payment Integration**
-- **Personalized Driver Profiles**
-- **Reservation History Tracking**
-- **Smart Notifications System**
-
-### 🏢 For Parking Managers
-
-- **Dynamic Spot Management**
-- **Real-time Occupancy Monitoring**
-- **Automated Penalty System**
-- **Batch Spot Creation**
-- **Custom Pricing Structures**
-- **Performance Analytics**
-
-### 👨‍💼 For System Administrators
-
-- **Multi-lot Overview**
-- **User Management**
-- **System-wide Statistics**
-- **Security Monitoring**
 
 ## 🛠 Technology Stack
 
